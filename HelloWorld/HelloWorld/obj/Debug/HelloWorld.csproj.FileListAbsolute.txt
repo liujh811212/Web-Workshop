@@ -3,3 +3,5 @@ C:\CSharpStudy\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\CSharpStudy\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
 C:\CSharpStudy\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\CSharpStudy\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Local-Web-Workshop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Local-Web-Workshop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
