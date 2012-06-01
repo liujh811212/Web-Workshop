@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\bin\Debug\Vote.Tests.dll.config
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\bin\Debug\Vote.Tests.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\bin\Debug\Vote.Tests.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\bin\Debug\Vote.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\bin\Debug\Vote.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\obj\Debug\Vote.Tests.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Vote\Vote.Tests\obj\Debug\Vote.Tests.pdb
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\bin\Debug\Vote.Tests.dll.config
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\bin\Debug\Vote.Tests.dll
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\bin\Debug\Vote.Tests.pdb
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\bin\Debug\Vote.dll
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\bin\Debug\Vote.pdb
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\obj\Debug\Vote.Tests.dll
+C:\Users\Administrator\git\Web-Workshop\Vote\Vote.Tests\obj\Debug\Vote.Tests.pdb
